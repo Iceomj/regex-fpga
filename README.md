@@ -8,11 +8,16 @@ Before starting to use this project, you need to install Altera's OpenCL SDK too
 
 
 
-/host       --------Code that run on CPU side       
+/host       --------Code that run on CPU side
+
 /device     --------OpenCL resource code for development (run on FPGA) 
+
 /bin        --------binary files include how to load the aocx file to FPGA board
+
 /jsonfiles  --------data files
+
 /common     --------basic library for  OpenCL SDK
+
 
 Simply start the Compiling by typing
 ```
