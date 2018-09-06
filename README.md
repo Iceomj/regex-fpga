@@ -49,4 +49,4 @@ If everything is OK, you can run the FPGA or emulator by:
 
 ```
 The scripts above can be revised to meet different needs.
-
+After running the run.sh or run_emulator.sh, you will get the kernel running time and the results. The results show how many IDs are in the jsonfiles.
